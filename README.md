@@ -1,24 +1,6 @@
-# markdown-notebook-vue
+# [Markdown Notebook](https://haokygo.github.io/markDown/)
+A single web app based on vuejs to write markdown notebook.
 
-## Project setup
-```
-npm install
-```
+一个用于编写[markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)标记语言基于Vuejs的单页面笔记本应用.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+笔记数据存储于浏览器localStorage中
